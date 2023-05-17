@@ -1,0 +1,13 @@
+<p>username</p>
+<input id="username-background" type="text" name="username">
+<br>
+
+<p>password</p>
+<input id="password-background" type="password" name="passwd">
+<br>
+<br>
+<input id="submit-button" type="submit" value="login"> 
+<br>
+<a href="#">Sign up</a>
+<br>
+<a href="#">Forgot password</a>
