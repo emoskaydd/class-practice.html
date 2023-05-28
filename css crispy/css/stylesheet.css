@@ -61,10 +61,10 @@ h2 {
 .nav-wrapper {
   background-color: #e5f5e5;
   position: static;
-  width: 135s0px;
-  top: 0;
+  width: 1380s;
+  top: 1;
   z-index: 1;
-  padding: 5px;
+  height: fit-content;
 }
 .nav.list {
   list-style: none;
@@ -86,6 +86,7 @@ h2 {
   letter-spacing: normal;
   font-size: larger;
   width: auto;
+  color: bisque;
 }
 .p2 {
   color: rgb(5, 5, 5);
@@ -124,11 +125,18 @@ details p {
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
 }
-/*this is the login heading*/
+/*this is the login heading and page styling*/
 #CAPTION-1 {
   text-align: center;
   color: #080808;
   padding: 5px;
   margin: 5px;
   font-style: italic;
+}
+
+#password {
+  color: #bbbbbb;
+}
+#username {
+  color: #bbbbbb;
 }

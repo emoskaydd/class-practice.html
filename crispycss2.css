@@ -1,0 +1,27 @@
+body {
+  display: block;
+}
+#signup {
+  text-decoration-color: brown;
+  color: green;
+  cursor: pointer;
+  padding-inline: 10%;
+  margin-inline: 10%;
+}
+
+#form-1 {
+  text-align: center;
+}
+#signup-h2 {
+  text-align: center;
+  color: greenyellow;
+  padding: 2%;
+  background-image: url(toyota-gr-supra.jpg.jpg);
+
+  border-radius: 20px;
+}
+
+#navi-wrapper {
+  background-color: darkolivegreen;
+  display: flex;
+}
